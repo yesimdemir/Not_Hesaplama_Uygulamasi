@@ -1,0 +1,11 @@
+D:\SQL\C# Projeler\Not_Hesaplama_Uygulamasi\Not_Hesaplama_Uygulamasi\bin\Debug\Not_Hesaplama_Uygulamasi.exe.config
+D:\SQL\C# Projeler\Not_Hesaplama_Uygulamasi\Not_Hesaplama_Uygulamasi\bin\Debug\Not_Hesaplama_Uygulamasi.exe
+D:\SQL\C# Projeler\Not_Hesaplama_Uygulamasi\Not_Hesaplama_Uygulamasi\bin\Debug\Not_Hesaplama_Uygulamasi.pdb
+D:\SQL\C# Projeler\Not_Hesaplama_Uygulamasi\Not_Hesaplama_Uygulamasi\obj\Debug\Not_Hesaplama_Uygulamasi.csproj.AssemblyReference.cache
+D:\SQL\C# Projeler\Not_Hesaplama_Uygulamasi\Not_Hesaplama_Uygulamasi\obj\Debug\Not_Hesaplama_Uygulamasi.csproj.SuggestedBindingRedirects.cache
+D:\SQL\C# Projeler\Not_Hesaplama_Uygulamasi\Not_Hesaplama_Uygulamasi\obj\Debug\Not_Hesaplama_Uygulamasi.Form1.resources
+D:\SQL\C# Projeler\Not_Hesaplama_Uygulamasi\Not_Hesaplama_Uygulamasi\obj\Debug\Not_Hesaplama_Uygulamasi.Properties.Resources.resources
+D:\SQL\C# Projeler\Not_Hesaplama_Uygulamasi\Not_Hesaplama_Uygulamasi\obj\Debug\Not_Hesaplama_Uygulamasi.csproj.GenerateResource.cache
+D:\SQL\C# Projeler\Not_Hesaplama_Uygulamasi\Not_Hesaplama_Uygulamasi\obj\Debug\Not_Hesaplama_Uygulamasi.csproj.CoreCompileInputs.cache
+D:\SQL\C# Projeler\Not_Hesaplama_Uygulamasi\Not_Hesaplama_Uygulamasi\obj\Debug\Not_Hesaplama_Uygulamasi.exe
+D:\SQL\C# Projeler\Not_Hesaplama_Uygulamasi\Not_Hesaplama_Uygulamasi\obj\Debug\Not_Hesaplama_Uygulamasi.pdb
